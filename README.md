@@ -1,12 +1,10 @@
-# H1
-## H2
-### H3
+# My fav movie or series
+## also a list of my fav movie 
 **bold text**
 *italicized text*
 > blockquote
-> 1. First item
-2. Second item
-3. Third item
+> 1. breaking bad
+2. marvel series
  {
   "firstName": "Karlo",
   "lastName": "Calangi",
