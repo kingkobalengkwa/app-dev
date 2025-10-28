@@ -5,9 +5,5 @@
 > blockquote
 > 1. breaking bad
 2. marvel series
- {
-  "firstName": "Karlo",
-  "lastName": "Calangi",
-  "Fav Movie": "infinity war end game, the movie that broke my heart",
-  "age": 21
-}
+- about the infinity war end game it broke my heart because my favorite character died huhubels.
+
